@@ -1,3 +1,7 @@
+## IMPORTANT NOTE
+
+This fork is no longer maintained as it only contained plugins for reveal.js. These plugins are now moved to https://github.com/rajgoel/reveal.js-plugins
+
 Read me
 ===============
 
